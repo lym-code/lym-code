@@ -14,7 +14,7 @@
 
 Name  | Roles
 ------------ | -------------
-:sunglasses: [@Roshankrsoni](https://github.com/Roshankrsoni) | ** FullStack developer**
+:sunglasses: [@Roshankrsoni](https://github.com/Roshankrsoni) | **FullStack developer**
 :nerd_face: [@roshankr-asort](https://github.com/roshankr-asort)  | **Frontend Developer**
 :woman_office_worker: [@Priyanka2637](https://github.com/Priyanka2637)  |  **Backend Developer**
  
