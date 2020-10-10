@@ -8,7 +8,7 @@
 -  we teach, build and share reusable Backend & frontend components, libraries, rules and style guides
 -  we take part in meetings of the frontend community as participants and speakers
 
-
+[😎👉 Lymcode Blog](https://lymcode.hashnode.dev)
  
 ## **Our Team** 
 
